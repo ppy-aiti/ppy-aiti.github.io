@@ -7,10 +7,12 @@ em {
 }
 h1 {
     font: 2em "Fira Sans", sans-serif;
+    color: blueviolet;
 }
 
 h3 {
     font: 2em "Fira Sans", sans-serif;
+    color: cadetblue;
 }
 
 li {
